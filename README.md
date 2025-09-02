@@ -1,6 +1,15 @@
 ## ✨ KitsuneNeoxy ! ✨
- 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KitsuneNeoxy&layout=compact&theme=radical) 
+
+<p align="center">
+  <img src="https://www.python.org/static/community_logos/python-logo.png" alt="Python Logo" width="120"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KitsuneNeoxy&layout=compact&theme=radical" alt="Top Languages"/>
+</p>
+
+
+
 
 <!--
 **KitsuneNeoxy/KitsuneNeoxy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
